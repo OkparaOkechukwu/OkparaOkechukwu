@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @OkparaOkechukwu
-- 👀 I’m interested in web programming of meteorological applications.
-- 🌱 I’m currently learning how to use Table D templates of  Standard WMO BUFR/CREX to build my own BUFR API/library software for Nigerian ICAO stations.
-- 💞️ I’m looking to collaborate on any meteorological software for use in WMO applications for the African continent.
+- 👋 I’m Okpara O.
+- 👀 I’m interested in web programming, Blockchain engineering & web3.0 dapps development.
+- 🌱 I’m currently building & managing a group of APIs, software & web apps at okpara.net.
+- 💞️ I’m looking to collaborate on any web3.0 project.
 - 📫 How to reach me chukwuebube@gmail.com
 
 <!---
