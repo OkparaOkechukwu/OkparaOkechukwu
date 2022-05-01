@@ -8,5 +8,5 @@ You can click the Preview link to take a look at your changes.
 --->
 Atomchain Whitepapers:
 
-https://okpara.net/Atomchain.pdf
+https://okpara.net/AtomChain.pdf
 https://okpara.net/AtomNetwork.pdf
